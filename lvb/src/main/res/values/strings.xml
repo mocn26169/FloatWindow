@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lvb</string>
+    <string name="title_activity_rtmp_room_demo">RtmpRoomDemoActivity</string>
+
+    <string name="title_app_float_view" translatable="false">内部悬浮窗(推荐)</string>
+    <string name="title_float_window_dialog" translatable="false">WM弹窗(无需权限)</string>
+    <string name="title_alert_window" translatable="false">系统弹窗(需权限)</string>
+    <string name="content_tips" translatable="false">这里是视频或者其他内容</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="beauty_category">
+        <item>美颜</item>
+        <item>滤镜</item>
+        <item>动效</item>
+        <item>美妆</item>
+        <item>手势</item>
+        <item>抠背</item>
+        <item>绿幕</item>
+    </string-array>
+
+    <string-array name="filter_type">
+        <item>无</item>
+        <item>标准</item>
+        <item>樱红</item>
+        <item>云裳</item>
+        <item>纯真</item>
+        <item>白兰</item>
+        <item>元气</item>
+        <item>超脱</item>
+        <item>香氛</item>
+        <item>美白</item>
+        <item>浪漫</item>
+        <item>清新</item>
+        <item>唯美</item>
+        <item>粉嫩</item>
+        <item>怀旧</item>
+        <item>蓝调</item>
+        <item>清凉</item>
+        <item>日系</item>
+    </string-array>
+
+</resources>
