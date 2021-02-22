@@ -8,4 +8,7 @@ Android基于腾讯云实时音视频实现类似微信视频通话最小化悬�
 
 Android应用内悬浮窗完美实现-无需权限 http://www.duqian.site/2018/01/30/android%E5%BA%94%E7%94%A8%E5%86%85%E6%82%AC%E6%B5%AE%E7%AA%97%E5%AE%8C%E7%BE%8E%E5%AE%9E%E7%8E%B0-%E6%97%A0%E9%9C%80%E6%9D%83%E9%99%90/
 
-
+收集其它案例
+Android 直播中的悬浮小窗以及封装
+https://juejin.cn/post/6931133158230491143#simple
+https://github.com/dawangzai/FloatWindow
