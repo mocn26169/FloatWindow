@@ -12,3 +12,6 @@ Android应用内悬浮窗完美实现-无需权限 http://www.duqian.site/2018/0
 Android 直播中的悬浮小窗以及封装
 https://juejin.cn/post/6931133158230491143#simple
 https://github.com/dawangzai/FloatWindow
+
+基于 EasyFloat 实现应用内全局悬浮窗
+https://juejin.cn/post/6929916457790734350
